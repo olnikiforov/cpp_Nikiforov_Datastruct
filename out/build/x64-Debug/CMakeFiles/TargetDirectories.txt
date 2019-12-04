@@ -1,0 +1,3 @@
+C:/Nikiforov_DataStruct/Nikiforov_DataStruct/out/build/x64-Debug/CMakeFiles/Nikiforov_DataStruct.dir
+C:/Nikiforov_DataStruct/Nikiforov_DataStruct/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Nikiforov_DataStruct/Nikiforov_DataStruct/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

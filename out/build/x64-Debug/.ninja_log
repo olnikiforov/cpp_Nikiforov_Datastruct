@@ -1,0 +1,5 @@
+# ninja log v5
+2	847	596842809	CMakeFiles/Nikiforov_DataStruct.dir/src/DataStruct.obj	c899510b249d5a3e
+11	521	596843083	CMakeFiles/Nikiforov_DataStruct.dir/src/DataStruct.cpp.obj	15ffe715d85b9505
+1	1118	596843150	CMakeFiles/Nikiforov_DataStruct.dir/tests/main.cpp.obj	464938040694c519
+1120	1797	596843150	Nikiforov_DataStruct.exe	f099f4619e59b98f
